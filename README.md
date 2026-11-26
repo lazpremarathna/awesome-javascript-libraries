@@ -19,6 +19,9 @@ A collection of awesome browser-side JavaScript libraries, resources.
 * [Countdown](https://github.com/epiksel/countdown) - jQuery CountDown Clock - Simple countdown plugin for product special offers.
 * [Counter Up 2](https://github.com/bfintal/Counter-Up2) - Counter-Up is a lightweight module that counts up to a targeted number when the number becomes visible.
 
+## Video
+* [videojs-story-view](https://github.com/hicay/videojs-story-view) - Instagram-style video and image stories as a dependency-free custom element, with an optional Video.js plugin.
+
 ## Misc
 * [Jquery Easing](https://github.com/gdsmith/jquery.easing) - jQuery Easing Plugin.
 
